@@ -23,7 +23,7 @@ To understand the area better, we explored the demographics of five neighborhood
 
 [Ocean Parkway (Angelina Nur)](https://angelinanur.github.io)
 
-[Brooklyn Heights](https://casslapointe.github.io)
+[Brooklyn Heights (Cassidy LaPointe)](https://casslapointe.github.io)
 
 
 
