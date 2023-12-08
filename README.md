@@ -19,7 +19,7 @@ To understand the area better, we explored the demographics of five neighborhood
 
 [Prospect Heights (Brian Almazo)](https://brianalmaz0.github.io/neighborhood_prospectHeights)
 
-[Flatpush (Daniyal Rana)](https://daniyalr4572.github.io/Flatbush.github.io/)
+[Flatbush (Daniyal Rana)](https://daniyalr4572.github.io/Flatbush.github.io/)
 
 [Ocean Parkway (Angelina Nur)](https://angelinanur.github.io)
 
